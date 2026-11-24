@@ -13,3 +13,27 @@
     font-size: 2rem;
     font-weight: 400;
 }
+
+.magic-card {
+    max-width: 600px;
+    margin-inline: auto;
+    margin-block: 2rem;
+    padding: 2rem;
+
+    background-image: url("../images/texture-image.png");
+    background-size: cover;
+    background-position: center;
+
+    color: #F5EFE6;
+    border: 2px solid #B46B32;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.magic-card header {
+    color: #F4C76B;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #B46B32;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
