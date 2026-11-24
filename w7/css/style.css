@@ -1,3 +1,7 @@
+body{
+    background-color: #101322;
+    color: #fff;
+}
 .hero-image{
     min-height: 70vh;
     background-image: linear-gradient(
