@@ -1,0 +1,15 @@
+.hero-image{
+    min-height: 70vh;
+    background-image: linear-gradient(
+        90deg,rgba(36, 37, 77, 0.65) 35%),url(../images/hero-image.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-block: 40vh 2vh;
+}
+
+.hero-image h2{
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 400;
+}
